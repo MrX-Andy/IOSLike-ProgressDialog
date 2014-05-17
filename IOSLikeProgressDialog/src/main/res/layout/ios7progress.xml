@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center_horizontal" android:background="@drawable/ios7round" android:paddingLeft="30dp" android:paddingRight="30dp" android:paddingTop="15dp" android:paddingBottom="15dp">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#444"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="Loading..."/>
+    <com.kazy91.ioslikeprogressdialog.IOS7LikeProgressSpinner
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_margin="10dp"
+        android:paddingTop="15dp"/>
+
+</LinearLayout>

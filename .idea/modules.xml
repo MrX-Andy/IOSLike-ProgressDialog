@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOSLike-ProgressDialog.iml" filepath="$PROJECT_DIR$/IOSLike-ProgressDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOSLikeProgressDialog/IOSLikeProgressDialog.iml" filepath="$PROJECT_DIR$/IOSLikeProgressDialog/IOSLikeProgressDialog.iml" />
+    </modules>
+  </component>
+</project>
+
